@@ -1,7 +1,4 @@
 # 0x02. Session authentication  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark:
 
 ## Background Context
 In this project, you will implement a Session Authentication. You are not allowed to install any other module.
